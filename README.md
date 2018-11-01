@@ -14,7 +14,7 @@ Make the script executable.
 chmod u+x makeRepo.sh
 ```
 
-The script could be placed on your system in such a way that in can be called globablly. Otherwise place the script in the directory you would like to create your repo.
+The script could be placed on your system in such a way that in can be called globally. Otherwise place the script in the directory you would like to create your repo.
 
 ## Running the Script
 
